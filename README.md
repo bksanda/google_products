@@ -1,3 +1,6 @@
+##This is an assignment for WDI Course.
+##2014-2015
+
 # Google Shopping Lab
 ## Conditionals and Loops
 
