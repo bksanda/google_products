@@ -1,5 +1,5 @@
-##This is an assignment for WDI Course.
-##2014-2015
+###2014-2015, WDI COURSE ASSIGNMENT
+***
 
 # Google Shopping Lab
 ## Conditionals and Loops
